@@ -36,7 +36,4 @@ A Flutter app to explore coworking spaces, view details, and book them easily. U
 ---
 
 ## ⚡ Challenges Faced  
-- Handling notifications across Android & iOS  
-- Dynamic Google Maps markers from Firestore  
-- Real-time booking status updates  
-- Managing multiple providers efficiently  
+- Handling notifications across Android
